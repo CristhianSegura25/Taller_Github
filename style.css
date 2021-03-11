@@ -1,14 +1,12 @@
 
+.nav_bar{
+  background-color: blueviolet;
+  font-size: 30pt;
+}
+
+
 .Inicio{
-    background-color: beige;
-}
-p
-{
-font-family: verdana;
-font-size: 8pt;
-color: aquamarine;
-}
-h1{
-    font-size: 20pt;
-    color: rgb(176, 56, 180);
+  background-color: beige;
+  font-family: verdana;
+  font-size: 8pt;
 }
