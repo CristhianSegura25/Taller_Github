@@ -10,3 +10,13 @@
   font-family: verdana;
   font-size: 8pt;
 }
+p
+{
+font-family: verdana;
+font-size: 8pt;
+color: aquamarine;
+}
+h1{
+    font-size: 20pt;
+    color: rgb(176, 56, 180);
+}
