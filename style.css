@@ -1,9 +1,12 @@
 
-.Inicio{
-    background-color: beige;
+.nav_bar{
+  background-color: blueviolet;
+  font-size: 30pt;
 }
-p
-{
-font-family: verdana;
-font-size: 8pt;
+
+
+.Inicio{
+  background-color: beige;
+  font-family: verdana;
+  font-size: 8pt;
 }
